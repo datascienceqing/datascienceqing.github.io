@@ -1,0 +1,21 @@
+---
+title: "Resume"
+author: "Qing Zhou"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# SUMMARY
+
++	Detail oriented with 4-year hands-on experience in SAS and SQL, and skilled in Python and R.
++ Familiar with SQL Server, Access, Linux/bash, and Git/GitHub.
++	Conscientious and self-directed with ability to manage multiple sophisticated projects while maintaining flexibility and accuracy within dynamic environments. 
++ Self-motivated and collaborative.
+
+
+
