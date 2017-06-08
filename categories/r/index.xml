@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Qing-Zhou</title>
-    <link>https://qing.github.io/categories/r/</link>
+    <link>https://datascienceqing.github.io/categories/r/</link>
     <description>Recent content in R on Qing-Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://qing.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datascienceqing.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resume</title>
-      <link>https://qing.github.io/2015/07/resume/</link>
+      <link>https://datascienceqing.github.io/2015/07/resume/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://qing.github.io/2015/07/resume/</guid>
+      <guid>https://datascienceqing.github.io/2015/07/resume/</guid>
       <description>SUMMARYDetail oriented with 4-year hands-on experience in SAS and SQL, and skilled in Python and R.Familiar with SQL Server, Access, Linux/bash, and Git/GitHub.Conscientious and self-directed with ability to manage multiple sophisticated projects while maintaining flexibility and accuracy within dynamic environments.Self-motivated and collaborative.</description>
     </item>
     
