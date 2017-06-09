@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plot on Qing-Zhou</title>
-    <link>https://datascienceqing.github.io/tags/plot/</link>
+    <link>/tags/plot/</link>
     <description>Recent content in Plot on Qing-Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://datascienceqing.github.io/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resume</title>
-      <link>https://datascienceqing.github.io/2015/07/resume/</link>
+      <link>/2015/07/resume/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://datascienceqing.github.io/2015/07/resume/</guid>
+      <guid>/2015/07/resume/</guid>
       <description>SUMMARYDetail oriented with 4-year hands-on experience in SAS and SQL, and skilled in Python and R.Familiar with SQL Server, Access, Linux/bash, and Git/GitHub.Conscientious and self-directed with ability to manage multiple sophisticated projects while maintaining flexibility and accuracy within dynamic environments.Self-motivated and collaborative. JOB EXPERIENCEHack Oregon, Data Analyst (volunteer) Portland, OR| 2016-2017Pulled Portland Fire &amp;amp; Rescue dispatch data (900,000 rows) from a Postgresql database which sits in AWS Elastic Compute Cloud (EC2) instance.</description>
     </item>
     

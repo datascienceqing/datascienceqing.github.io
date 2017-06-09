@@ -35,14 +35,17 @@ knitr::opts_chunk$set(collapse = TRUE)
 + Collaborated with international teams to identify more than 50 mutations that cause Neonatal Diabetes, published 10 peer-reviewed scientific papers.
 
 # PROJECTS
-1. **Find Lane Lines    Feb 2017**
+1. **Medicare PartD data set analysis  May 2017**
++ Performed data analysis on Medicare PartD data set using SAS. Demonstrated beneficiaries distribution, drug usage among specialties and state, as well as changes of providers between 2013 and 2014.
++ Compared the opioid description among female and male doctors in different states.[Link](https://github.com/datascienceqing/MedicareParD)
+2. **Find Lane Lines    Feb 2017**
 + Used Python OpenCV module and Sliding Window algorithm to detect and mark Lane Lines and calculate curvature.[Link]( https://youtu.be/1VN5ryqO5r0)
-2. **Find vehicles    Mar 2017**
+3. **Find vehicles    Mar 2017**
 + Used Python OpenCV and Scikit-learn modules as well as Sliding Window algorithm to identify vehicles, then applied Heat map algorithm to filter out false calls and mark correct bounding boxes.[Link](https://youtu.be/tOZhbInBmNU )
-3. **Clone Human Driving Behavior   Feb 2017**
+4. **Clone Human Driving Behavior   Feb 2017**
 + Built an Nvidia end-to-end Convolutional Neural Network using Keras library to drive car in a simulator. Collected 10-minute data on the simulator then used the data to train the model. The model can drive the simulator car autonomously.[Link](https://youtu.be/5R_c7XdWmZg)
-4. **Classify Traffic Signs   Jan 2017**
-+ Built a Convolutional Neural Network using TensorFlow to classify traffic sign images in Python. ???Achieved 0.997 accuracy on 39,209 training images and 0.963 accuracy on 12,630 testing images.[Link](https://github.com/datascienceqing/Traffic-Sign-Classification-Project)
+5. **Classify Traffic Signs   Jan 2017**
++ Built a Convolutional Neural Network using TensorFlow to classify traffic sign images in Python. Achieved 0.997 accuracy on 39,209 training images and 0.963 accuracy on 12,630 testing images.[Link](https://github.com/datascienceqing/Traffic-Sign-Classification-Project)
 
 # EDUCATION& CERTIFICATE
 + Ph.D. in Microbiology, Wuhan University College of Life, Wuhan, China 2004-2007
