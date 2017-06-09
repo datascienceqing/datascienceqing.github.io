@@ -15,7 +15,39 @@ knitr::opts_chunk$set(collapse = TRUE)
 +	Detail oriented with 4-year hands-on experience in SAS and SQL, and skilled in Python and R.
 + Familiar with SQL Server, Access, Linux/bash, and Git/GitHub.
 +	Conscientious and self-directed with ability to manage multiple sophisticated projects while maintaining flexibility and accuracy within dynamic environments. 
-+ Self-motivated and collaborative.
++ Self-motivated and collaborative. <!--more-->
+
+# JOB EXPERIENCE
+1. **Hack Oregon, Data Analyst (volunteer)     Portland, OR| 2016-2017**
++ Pulled Portland Fire & Rescue dispatch data (900,000 rows) from a Postgresql database which sits in AWS Elastic Compute Cloud (EC2) instance. Explored the data ranged from 2010 to 2016; calculated response time and visualized the analytical results in [Python Notebook](https://github.com/datascienceqing/PortlandFire).
+
+2. **Molecular Testing Labs, Sr. Scientist      Vancouver, WA| 2013-2017**
++ Applied advanced SAS programming techniques such as Hash object, Pass through query/execute, Macros, and Debugger to optimize the procedures that were used to access data containing more than 1 million rows from various sources and produce datasets suitable for SAS analytics or reporting.
++ Created complex queries using SAS Enterprise Guide/PC SAS to extract and analyze data, as well as generate reports to track the performance of sales groups.
++ Used SAS to monitor the trends within the clinical trial project, spearheaded a data-driven methodology to identify gaps between current metrics and benchmarks and indicate corrective actions.
++ Analyzed user requirements and designed Data Mart Adverse Drug Reaction (ADR) and gene mutation information. Load data through SQL Server Integration Services (SSIS) to construct a pharmaco-genomics knowledge database for reporting purpose.
++ Responded to doctors and communicated the benefits of Molecular Testing Labs' products in concise and informative reports.
++ Used Python to pull data from OpenFDA API, extracted Adverse Drug Reaction (ADR) related gene information, and integrated into Lab Information System to generate ADR reports.
++ Performed data analysis for clinical trails. Organized data from 6 different assays and calculated AUC, cut-off, sensitivity, and specificity using lookups, pivot tables, and VBA.
++ Used Git for version control and R Markdown for documentation.
+
+3. **Oregon Health and Science University, Sr. Research Associate  Portland, OR| 2008-2013**
++ Collaborated with international teams to identify more than 50 mutations that cause Neonatal Diabetes, published 10 peer-reviewed scientific papers.
+
+# PROJECTS
+1. **Find Lane Lines    Feb 2017**
++ Used Python OpenCV module and Sliding Window algorithm to detect and mark Lane Lines and calculate curvature.[Link]( https://youtu.be/1VN5ryqO5r0)
+2. **Find vehicles    Mar 2017**
++ Used Python OpenCV and Scikit-learn modules as well as Sliding Window algorithm to identify vehicles, then applied Heat map algorithm to filter out false calls and mark correct bounding boxes.[Link](https://youtu.be/tOZhbInBmNU )
+3. **Clone Human Driving Behavior   Feb 2017**
++ Built an Nvidia end-to-end Convolutional Neural Network using Keras library to drive car in a simulator. Collected 10-minute data on the simulator then used the data to train the model. The model can drive the simulator car autonomously.[Link](https://youtu.be/5R_c7XdWmZg)
+4. **Classify Traffic Signs   Jan 2017**
++ Built a Convolutional Neural Network using TensorFlow to classify traffic sign images in Python. ???Achieved 0.997 accuracy on 39,209 training images and 0.963 accuracy on 12,630 testing images.[Link](https://github.com/datascienceqing/Traffic-Sign-Classification-Project)
+
+# EDUCATION& CERTIFICATE
++ Ph.D. in Microbiology, Wuhan University College of Life, Wuhan, China 2004-2007
++ Python Programming, R Programming, SQL, Introduction to Apache Spark CS105x, Machine Learning, Java Programming and Software Engineering Fundamentals, Bayesian statistics,  Online Certificates
++ SAS Advanced Programming Certificate for SAS 9
 
 
 
