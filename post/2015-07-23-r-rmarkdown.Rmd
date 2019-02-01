@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 author: "Qing Zhou"
-date: 2015-07-23T21:13:14-05:00
+date: 2019-01-31T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -12,26 +12,27 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # SUMMARY
 
-+	Detail oriented with 4-year hands-on experience in SAS and SQL, and skilled in Python and R.
-+ Familiar with SQL Server, Access, Linux/bash, and Git/GitHub.
-+	Conscientious and self-directed with ability to manage multiple sophisticated projects while maintaining flexibility and accuracy within dynamic environments. 
-+ Self-motivated and collaborative. <!--more-->
++	Skilled in Machine Learning and Deep Learning using Python Pandas, Scikit-learn, XGBoost, TensorFlow, and NLTK/CNTK package.
++ Proficient in Data Warehouse ETL and Quality Control using SAS, R, SQL Server, SSIS, Oracle, and Tableau.
++	Conscientious and self-directed with ability to manage multiple sophisticated projects while maintaining flexibility and accuracy within dynamic environments. <!--more-->
 
 # JOB EXPERIENCE
-1. **Hack Oregon, Data Analyst (volunteer)     Portland, OR| 2016-2017**
-+ Pulled Portland Fire & Rescue dispatch data (900,000 rows) from a Postgresql database which sits in AWS Elastic Compute Cloud (EC2) instance. Explored the data ranged from 2010 to 2016; calculated response time and visualized the analytical results in [Python Notebook](https://github.com/datascienceqing/PortlandFire).
+1. **Kaiser Permanente Center for Health Research, Data Integration Specialist    Portland, OR| 2017-present**
++ Leading a company-wise initiative for extracting social history and quality of life information from unstructured clinical notes using Natural Language Processing (NLP).
++ Used Microsoft NLTK package to parse clinical notes to identify patient who had Local Reaction after vaccine injection. Compared to Ground Truth obtained by Chart Review, the positive predictive value (PPV) is 92%, specificity is 84%, and F1-score is 91%.
++ Introduced time series forecast algorithms in quality control of Data Warehouse daily refresh. Detected Anomalies in staging area and prevents bad data from leaking into production. This system has avoided loading more than 100 source errors in one year.
++ Wrote and distributed programs to do Quality Assessment on Data Warehouses in all Kaiser Permanente regions. Shorten the execution time while performing more checks. The Medical Encounter table in one big region contains 0.9 billion rows.
++ Improved the Error Handling of monitoring SSIS packages, which allows the whole Data Warehouse team to be able to check and respond to ETL error messages rather than just two people before. 
 
-2. **Molecular Testing Labs, Sr. Scientist      Vancouver, WA| 2013-2017**
-+ Applied advanced SAS programming techniques such as Hash object, Pass through query/execute, Macros, and Debugger to optimize the procedures that were used to access data containing more than 1 million rows from various sources and produce datasets suitable for SAS analytics or reporting.
-+ Created complex queries using SAS Enterprise Guide/PC SAS to extract and analyze data, as well as generate reports to track the performance of sales groups.
-+ Used SAS to monitor the trends within the clinical trial project, spearheaded a data-driven methodology to identify gaps between current metrics and benchmarks and indicate corrective actions.
-+ Analyzed user requirements and designed Data Mart Adverse Drug Reaction (ADR) and gene mutation information. Load data through SQL Server Integration Services (SSIS) to construct a pharmaco-genomics knowledge database for reporting purpose.
-+ Responded to doctors and communicated the benefits of Molecular Testing Labs' products in concise and informative reports.
-+ Used Python to pull data from OpenFDA API, extracted Adverse Drug Reaction (ADR) related gene information, and integrated into Lab Information System to generate ADR reports.
-+ Performed data analysis for clinical trails. Organized data from 6 different assays and calculated AUC, cut-off, sensitivity, and specificity using lookups, pivot tables, and VBA.
-+ Used Git for version control and R Markdown for documentation.
+2. **Hack Oregon, Data Analyst (volunteer)     Portland, OR| 2016-2017**
++ Pulled Portland Fire & Rescue dispatch data from AWS EC2 instance. Explored the data, calculated response time, predicted False Alarms using Random Forests and visualized the analytical results in [Python Notebook](https://github.com/datascienceqing/PortlandFire).
 
-3. **Oregon Health and Science University, Sr. Research Associate  Portland, OR| 2008-2013**
+3. **Molecular Testing Labs, Sr. Scientist      Vancouver, WA| 2013-2017**
++ Established a pharmacogenomics knowledge database in SQL Server for reporting purpose. The database was integrated into company’s Lab Information Management System (LIMS), which replaced the third party reporting service.
++ Managed 6 clinic trial data storage and analysis as assay development technical lead. 
++ Responded to doctors and clients to communicate the benefits of products.
+
+4. **Oregon Health and Science University, Sr. Research Associate  Portland, OR| 2008-2013**
 + Collaborated with international teams to identify more than 50 mutations that cause Neonatal Diabetes, published 10 peer-reviewed scientific papers.
 
 # PROJECTS
@@ -49,8 +50,11 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # EDUCATION& CERTIFICATE
 + Ph.D. in Microbiology, Wuhan University College of Life, Wuhan, China 2004-2007
-+ Python Programming, R Programming, SQL, Introduction to Apache Spark CS105x, Machine Learning, Java Programming and Software Engineering Fundamentals, Bayesian statistics,  Online Certificates
++ SQL, Introduction to Apache Spark CS105x, Machine Learning,  Python Programming, R Programming, Java Programming and Software Engineering Fundamentals, Bayesian statistics,  Online Certificates   2015-2016  
++ SAS Base Programming Certificate for SAS 9 
 + SAS Advanced Programming Certificate for SAS 9
++ SAS Macro Language 2: Advanced Techniques, SAS Programming 2: Data Manipulation Techniques, SAS Programming 3: Advanced Techniques and Efficiencies, SAS Programming on the Grid, SAS programming for R Users, Hadoop data Management with Hive, Pig, and SAS, KP e-Learning Certificates 2017-2018 
+
 
 
 
